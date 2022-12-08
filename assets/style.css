@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@700&family=Sriracha&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html, body{
+    min-height: 100vh;
+}
+
+:root{
+    --font1: 'Passion One', cursive;
+    --font2: 'Sriracha', cursive;
+}
+
+
+/* Cabeçario */
+header#topo{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#topo > h1{
+    font: lighter normal 10vw var(--font1);
+    font-variant: small-caps;
+    padding-top: 50px;
+}
+
+#topo > p{
+    font-size: 1em;
+    padding-bottom: 50px;
+}
+
+#topo > p > a{
+    color: white;
+    text-decoration: none;
+    font: normal bolder 1em 'Verdana', sans-serif;
+}
+
+#topo > p > a:hover{
+    text-decoration: underline;
+}
+/* Cabeçario - FIM*/
+
+
+/* Estilo geral das estrofes */
+section{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    padding-left: 30px;
+    line-height: 2;
+    text-align: left;
+}
+
+.estilo-geral > p{
+    padding-bottom: 2em;
+    font-family: var(--font2);
+    font-size: 3.5vw;
+}
+/* Estilo geral das estrofes - FIM */
+
+/* Estilo das estrofes com imagem */
+#estrofe-img01{
+    box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.5);
+    background-image: url(imagens/background001.jpg);
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: grey;
+    
+}
+
+#estrofe-img02{
+    background-image: url(imagens/background002.jpg);
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: grey;
+}
+
+.estrofe-img > p{
+    display: inline-block;
+    text-shadow: 1px 1px 0px black;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.527);
+    color: white;
+    font-family: var(--font2);
+    font-size: 3.5vw;
+}
+
+.texto-img{
+    padding: 5px;
+    display: inline-block;
+}
+/* Estilo das estrofes com imagem - FIM */
+
+footer{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+
+footer > p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer > p > a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer > p > a:hover{
+    text-decoration: underline;
+}
