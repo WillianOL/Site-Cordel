@@ -13,7 +13,7 @@
 
 <div>
 <h2> Sobre o projeto </h2> 
-<p> O site cordel foi feito com o maior foco em aparelhos portateis, tanto em tamanhos de fontes, quanto em imagens, mas também pode ser acessado em computadores.</p>
+<p> O site cordel foi feito durante o curso de HTML e CSS com o maior foco em aparelhos portateis, tanto em tamanhos de fontes, quanto em imagens, mas também pode ser acessado em computadores.</p>
 <p> Foi feito como uma forma de "livro digital", onde tem intuito apresentar o poema de Milton Duarte - "Tecnologia de Agora".</p>
 </div>
 
