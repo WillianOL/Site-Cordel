@@ -30,13 +30,12 @@
  </li>
 </ul>
 
-  ## Como acessar
+  ## Acessar
 
 <div>
-  <p> Basta copiar o link do github e acessar! </p>
   <ul>
     <li>
-      https://willianol.github.io/Site-Cordel/assets/cordel.html
+      <a href="https://willianol.github.io/Site-Cordel/assets/cordel.html" target="_blank"> Projeto Cordel</a>
     </li>
   </ul>
 </div>
