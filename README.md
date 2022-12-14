@@ -26,7 +26,7 @@
    <img align="center" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> Usado na maior parte do projeto, tanto na perte do conteúdo quanto para importar o poema. Com fontes personalizadas para expecificamente esse site.
  </li>
  <li> 
-  <img align="center" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> Usado para deixar o site adequado para aparelhos portateis, com as fonts e imagens responsivas. Com o efeito paralax.
+  <img align="center" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> Usado para deixar o site adequado para aparelhos portateis, com as fonts e imagens responsivas. E adicionando o efeito paralax.
  </li>
 </ul>
 
